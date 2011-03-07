@@ -12,7 +12,7 @@ Download existing del.icio.us bookmarks to start;
 Add new bookmark;
     > ./add.sh "http://localhost" "some tags" "title"
 
-To post Del.icio.us, pass username and password parameters:
+To post new bookmarks to Del.icio.us also, pass username and password parameters:
     > ./add.sh "http://wikipedia.org" "reference research community" "Wikipedia" leonardo 314159
 
 List bookmarks using dmenu:
