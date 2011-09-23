@@ -1,4 +1,4 @@
-source account.cfg
+source "$BOOKMARKS_DIR/account.cfg"
 url="$1"
 tags="$2"
 title="$3"

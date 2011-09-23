@@ -1,4 +1,4 @@
-source account.cfg
+source "$BOOKMARKS_DIR/account.cfg"
 
 . $BOOKMARKS_DIR/log.sh "Fetch Delicious Bookmarks. User: $user"
 
