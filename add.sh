@@ -1,8 +1,7 @@
+source account.cfg
 url="$1"
 tags="$2"
 title="$3"
-user="$4"
-passwd="$5"
 
 . $BOOKMARKS_DIR/log.sh "New Bookmark: $url (tags: $tags, title: $title)"
 

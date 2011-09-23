@@ -1,5 +1,4 @@
-user="$1"
-passwd="$2"
+source account.cfg
 
 . $BOOKMARKS_DIR/log.sh "Fetch Delicious Bookmarks. User: $user"
 
