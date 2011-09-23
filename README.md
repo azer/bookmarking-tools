@@ -28,6 +28,10 @@ Browse with your default browser:
 
     > ./browse.sh
 
+Tagging dialog with recommendations:
+
+    > ./prompt_tags.sh google.com
+
 Get recommended tags for a specific URL:
   
     > ./reco.sh "http://github.com"
