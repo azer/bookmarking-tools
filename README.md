@@ -7,8 +7,13 @@ Install
 =======
     > git clone git@github.com:azer/bookmarking-tools.git
     > cd bookmarking-tools
+
+Del.icio.us Synchronization
+===========================
+To enable synchronization with del.icio.us, edit account.cfg as following:
+
     > cat > account.cfg
-    username="foo"
+    user="foo"
     passwd="bar"
     > export BOOKMARKS_DIR="$HOME/bookmarks"
 
