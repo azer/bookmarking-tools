@@ -1,6 +1,8 @@
 A set of bash scripts I coded to store my bookmarks in both a text file and
 my del.icio.us account. 
 
+Dependencies: curl, dmenu (optional)
+
 Install
 =======
     > git clone git@github.com:azer/bookmarking-tools.git
